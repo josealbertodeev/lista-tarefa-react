@@ -1,5 +1,7 @@
 # Projetinho com React 
 
+Praticando os conceitos de React🧙‍♂️
+
 ## Lista de Tarefa 🗒️
 
 ## 🤖 Linguagem Utilizada
